@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Recipe Explorer</string>
+
+    <string name="placeholdercookie">Lorem Ipsum Wafer</string>
+    <string name="sdesc_placeholdercookie">A stiff cookie made from condensed placeholder text.</string>
+    <string name="ldesc_placeholdercookie">Lorem Ipsum Wafers are largely inedible, being primarily made of pointless text. Not for those with gluten allergies.</string>
+
+    <string name="placeholderpasta">Spaghetti Code</string>
+    <string name="sdesc_placeholderpasta">A bland pasta made from poorly thought out scraps of code.</string>
+    <string name="ldesc_placeholderpasta">Spaghetti Code is borderline toxic, with a flavor simultaneously so bland and so unintelligible that it borders on being a cognitohazard.</string>
+</resources>
